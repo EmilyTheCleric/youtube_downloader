@@ -6,7 +6,7 @@ MAKE SURE YOU HAVE PYTHON INSTALLED WILL NOT WORK WITHOUT IT
 
 May take a while to run on first launch, should be faster on successive launches
 
-DON'T USE A LIVE VIDEO LINK, you will get caught in an infinite loop from which there is no return (except exiting the program)
+DON'T USE A LIVE VIDEO LINK, a premiere, or a playlist, you will get caught in an infinite loop from which there is no return (except exiting the program)
 
 if you make a mistake while inputting time, it will (hopefully) default to the beginning and end of a video
 
